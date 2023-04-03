@@ -1,0 +1,45 @@
+# -----| .gitignore |
+# -----| [ FOLDERS ]
+/dist
+/node_modules
+/env
+/config
+/pgdata
+/.secrets
+/coverage
+/.nyc_output
+/.idea
+# -----| [ CORE FILES ]
+.env
+.env.dev
+docker-compose.yml
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# Tests
+
+
+# IDEs and editors
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

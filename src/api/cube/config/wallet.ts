@@ -1,0 +1,2 @@
+export const TRANSACTION_FEE = 1.3;
+export const INITIAL_BALANCE = 50000000000;

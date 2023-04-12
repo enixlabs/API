@@ -77,7 +77,7 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
     "sqlite3": "^5.1.6",
-    "typeorm": "^0.3.12",
+    "typeorm": "^0.3.14",
     "unity-webgl": "^3.3.0"
   },
   "devDependencies": {
